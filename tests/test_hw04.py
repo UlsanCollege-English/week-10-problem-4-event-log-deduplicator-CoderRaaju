@@ -1,4 +1,4 @@
-
+import random
 from main import make_set, add, contains, remove, size
 
 # ---- Normal tests (4) ----
